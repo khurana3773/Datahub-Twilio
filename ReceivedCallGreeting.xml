@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
+<Play>https://instaud.io/1bu1.mp3</Play>
+</Response>
